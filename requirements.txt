@@ -29,7 +29,7 @@ Factory-Boy==3.2.0
 pytest-cov==2.12.1
 
 # Requests library for making HTTP requests
-requests==2.26.0
+requests==2.32.0
 
 # Cryptography library for encryption and decryption
 cryptography==42.0.4
