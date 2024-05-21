@@ -56,4 +56,4 @@ Flask-SocketIO==5.1.1
 eventlet==0.35.2
 
 # Sentry error tracking and monitoring
-sentry-sdk==1.4.2
+sentry-sdk==1.14.0
