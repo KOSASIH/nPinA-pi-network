@@ -35,7 +35,7 @@ requests==2.26.0
 cryptography==42.0.4
 
 # TensorFlow machine learning framework
-tensorflow==2.6.0
+tensorflow==2.11.1
 
 # NumPy library for numerical computing
 numpy==1.21.1
