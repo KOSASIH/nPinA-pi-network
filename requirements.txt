@@ -38,7 +38,7 @@ cryptography==42.0.4
 tensorflow==2.11.1
 
 # NumPy library for numerical computing
-numpy==1.21.1
+numpy==1.22.0
 
 # Pandas library for data manipulation and analysis
 pandas==1.3.3
