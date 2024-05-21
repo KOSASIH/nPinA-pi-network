@@ -1,5 +1,5 @@
 # Flask web framework
-Flask==2.0.2
+Flask==2.2.5
 
 # Flask-SQLAlchemy ORM for Flask
 Flask-SQLAlchemy==2.5.1
