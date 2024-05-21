@@ -1,0 +1,59 @@
+# Flask web framework
+Flask==2.0.2
+
+# Flask-SQLAlchemy ORM for Flask
+Flask-SQLAlchemy==2.5.1
+
+# SQLAlchemy ORM for Python
+SQLAlchemy==1.4.24
+
+# Psycopg2 adapter for PostgreSQL
+psycopg2-binary==2.9.1
+
+# Flask-Migrate extension for Flask
+Flask-Migrate==3.1.0
+
+# Flask-Testing extension for Flask
+Flask-Testing==0.8.1
+
+# Pytest testing framework
+pytest==6.2.4
+
+# Pytest-FactoryBoy plugin for Pytest
+pytest-factoryboy==2.4.1
+
+# Factory Boy library for generating test data
+Factory-Boy==3.2.0
+
+# Pytest-Coverage plugin for Pytest
+pytest-cov==2.12.1
+
+# Requests library for making HTTP requests
+requests==2.26.0
+
+# Cryptography library for encryption and decryption
+cryptography==3.4.7
+
+# TensorFlow machine learning framework
+tensorflow==2.6.0
+
+# NumPy library for numerical computing
+numpy==1.21.1
+
+# Pandas library for data manipulation and analysis
+pandas==1.3.3
+
+# Scikit-learn library for machine learning
+scikit-learn==0.24.2
+
+# Flask-Cors extension for Flask
+Flask-Cors==3.1.0
+
+# Flask-SocketIO extension for Flask
+Flask-SocketIO==5.1.1
+
+# Eventlet library for concurrent programming
+eventlet==0.30.2
+
+# Sentry error tracking and monitoring
+sentry-sdk==1.4.2
