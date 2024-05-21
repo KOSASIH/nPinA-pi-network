@@ -53,7 +53,7 @@ Flask-Cors==3.1.0
 Flask-SocketIO==5.1.1
 
 # Eventlet library for concurrent programming
-eventlet==0.30.2
+eventlet==0.35.2
 
 # Sentry error tracking and monitoring
 sentry-sdk==1.4.2
