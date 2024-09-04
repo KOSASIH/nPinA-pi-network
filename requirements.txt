@@ -32,7 +32,7 @@ pytest-cov==2.12.1
 requests==2.32.0
 
 # Cryptography library for encryption and decryption
-cryptography==42.0.4
+cryptography==43.0.1
 
 # TensorFlow machine learning framework
 tensorflow==2.11.1
