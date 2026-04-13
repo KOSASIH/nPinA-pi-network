@@ -17,7 +17,7 @@ Flask-Migrate==3.1.0
 Flask-Testing==0.8.1
 
 # Pytest testing framework
-pytest==6.2.4
+pytest==9.0.3
 
 # Pytest-FactoryBoy plugin for Pytest
 pytest-factoryboy==2.4.1
